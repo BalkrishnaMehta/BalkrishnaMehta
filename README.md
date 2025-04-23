@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Balkrishna Mehta 👋
 
-<!--
-**BalkrishnaMehta/BalkrishnaMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, problem-solving, and building impactful software solutions. Here's a little about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript, TypeScript, Java
+- **Frameworks**: React, Next, Node.js, Flutter
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+
+---
+
+## 🌱 What I'm Learning
+
+I'm currently diving deeper into **AI/ML models** and exploring the potential of **Edge Computing**. Keeping up with the latest tech trends is my passion!
+
+---
+
+## 🔭 What I'm Working On
+
+- Building an cross platform grocery ecommerce app.
+- Experimenting with AI-driven solutions for real-world problems.
+
+---
+
+## 📈 GitHub Stats
+
+![Balkrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalkrishnaMehta&show_icons=true&theme=radical)
+
+---
+
+## 💬 Let's Connect!
+
+- **LinkedIn**: [Balkrishna Mehta](https://www.linkedin.com/in/balkrishna-mehta/)
+- **Twitter**: [@BalkrishnaMehta](https://x.com/BKMehta2003)
+
+Feel free to reach out to discuss projects, collaborations, or just to say hi!
+
+---
+
+## ✨ Fun Fact
+
+I believe in the mantra: "Code, Coffee, Create, Repeat." ☕
+
+```
